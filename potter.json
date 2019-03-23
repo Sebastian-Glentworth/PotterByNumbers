@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "Sales": 120000000,
+            "Words": 76944
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "Sales": 77000000,
+            "Words": 85141
+        },
+        {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "Sales": 65000000,
+            "Words": 107253
+        },
+        {
+            "title": "Harry Potter and the Goblet of Fire",
+            "Sales": 65000000,
+            "Words": 190637
+        },
+        {
+            "title": "Harry Potter and the Order of the Phoenix",
+            "Sales": 65000000,
+            "Words": 257045
+        },
+        {
+            "title": "Harry Potter and the Half-Blood Prince",
+            "Sales": 65000000,
+            "Words": 168923
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows",
+            "Sales": 65000000,
+            "Words": 204786
+        }
+    ]
+}
