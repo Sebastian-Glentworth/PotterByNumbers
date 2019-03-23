@@ -3,7 +3,7 @@ Calculates the approximate total number of words of the Harry Potter series that
 Number of sales based on [this wikipedia article](https://en.wikipedia.org/wiki/List_of_best-selling_books) and number of words based on [this answers.com page](https://www.answers.com/Q/How_many_words_are_in_each_Harry_Potter_book).
 
 ## Results
-| Title|Words|Sales|Total|
+| Title|Sales|Words|Total|
 | ------------- |-------------| -----|-----|
 | Harry Potter and the Philosopher's Stone| 120,000,000 | 76,944 | 9,233,280,000,000 |
 | Harry Potter and the Chamber of Secrets| 77,000,000 | 85,141 | 6,555,857,000,000 |
